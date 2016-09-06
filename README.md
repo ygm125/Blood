@@ -1,0 +1,2 @@
+# Soldier
+Soldier training camp
